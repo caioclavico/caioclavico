@@ -62,7 +62,7 @@ Tenho 27 anos, moro em Dourados/MS e sou apaixonado por programação e engenhar
 ##
 <p align="center">
  <a href="https://github.com/caioclavico">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caioclavico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caioclavico&layout=compact&langs_count=8&theme=algolia"/>
+   <img height="180em" width="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caioclavico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" width="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caioclavico&layout=compact&langs_count=8&theme=algolia"/>
  </a>
 </p>
