@@ -2,13 +2,13 @@
  
  <h1 align="left">Caio Clavico</h1>
  <a href="https://www.instagram.com/caioclavico/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://i.ibb.co/2vvjxfX/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/caioclavico">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://i.ibb.co/5jJysFG/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/caioclavico">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://i.ibb.co/FXVRkSt/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
@@ -44,8 +44,8 @@ Tenho 27 anos, moro em Dourados/MS e sou apaixonado por programação e engenhar
 <div display="inline-block">
  <p align="left">🎓 Faço parte <a href="https://kenzie.com.br/">Kenzie Academy Brazil</a>;</p>
  <p align="left">📚 Tenho estudado Python e iniciei meus estudos para desenvolver APIs com Flask;</p>
- <p align="left">☕🎮 só acordo com café, adoro games (mas ultimamente ando enferrujado hehe);</p>
- <p align="left">👨🏻‍💻 Estou a procura do meu primeiro emprego na área de tecnologia (me mandem vagas pls!! 🙏🏻.</p>
+ <p align="left">🎮 Adoro games (mas ultimamente ando enferrujado hehe);</p>
+ <p align="left">👨🏻‍💻 Estou a procura do meu primeiro emprego na área de tecnologia (me mandem vagas pls!! 🙏🏻).</p>
 </div>
 
 
