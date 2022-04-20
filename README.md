@@ -1,31 +1,68 @@
-## Caio Clavico
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Caio Clavico</h1>
+ <a href="https://www.instagram.com/caioclavico/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://twitter.com/caioclavico">
+    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+  </a>
+  <a href="https://www.linkedin.com/in/caioclavico">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+
+
+
+</br>
+</br>
+
 ### Hello, Devs!!
 
-- :mortar_board: Atualmente estou estudando Desenvolvedor Web Full Stack na kenzie Academy Brasil
-- 🌱 Atualmente estou aprendendo Back-end com Python e Flask
-- 👯 Estou procurando colaborar na area de desenvolvimento web
+Tenho 27 anos, moro em Dourados/MS e sou apaixonado por programação e engenharia! Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
-### Tecnologias que trabalho
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
+### 🖥️ Tecnologias e Ferramentas:
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50"/>
 </div>
 
-### Contatos:
 
-<div>
-  <a href="https://instagram.com/caioclavico" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caiohclavico@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caioclavico" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">🎓 Faço parte <a href="https://kenzie.com.br/">Kenzie Academy Brazil</a>;</p>
+ <p align="left">📚 Tenho estudado Python e iniciei meus estudos para desenvolver APIs com Flask;</p>
+ <p align="left">☕🎮 só acordo com café, adoro games (mas ultimamente ando enferrujado hehe);</p>
+ <p align="left">👨🏻‍💻 Estou a procura do meu primeiro emprego na área de tecnologia (me mandem vagas pls!! 🙏🏻.</p>
 </div>
 
-<div>
-  <a href="https://github.com/caioclavico">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioclavico&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioclavico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+</br>
+
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/caioclavico) ou pelo [Twitter](https://twitter.com/caioclavico) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+
+</br>
+
+<a href="https://www.instagram.com/caioclavico" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/caioclavico" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/caioclavico" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+##
+<p align="center">
+<a href="https://github.com/caioclavico">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caioclavico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caioclavico&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
