@@ -1,6 +1,6 @@
 <div dsplay="inline-block">
  
- <h1 align="left">Caio Clavico</h1>
+ <h1 align="left">Caio Henrique Clavico Crizanto</h1>
  <a href="https://www.instagram.com/caioclavico/">
     <img align="left" width="80px" src="https://i.ibb.co/2vvjxfX/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
