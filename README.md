@@ -45,6 +45,7 @@ Tenho 27 anos, moro em Dourados/MS e sou apaixonado por programação e engenhar
  <p align="left">🎓 Faço parte da <a href="https://kenzie.com.br/">Kenzie Academy Brazil</a>;</p>
  <p align="left">📚 Tenho estudado Python e iniciei meus estudos para desenvolver APIs com Django;</p>
  <p align="left">🎮 Adoro games (mas ultimamente ando enferrujado hehe);</p>
+ <p align="left">👨🏻‍💻Meu portfólio: <a href="https://caioclavico.vercel.app">Caio Clavico</a></p>
 </div>
 
 
