@@ -51,7 +51,7 @@ Tenho 27 anos, moro em Dourados/MS e sou apaixonado por programação e engenhar
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/caioclavico) ou pelo [Twitter](https://twitter.com/caioclavico) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/caioclavico) ou pelo [Twitter](https://twitter.com/caioclavico) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
